@@ -1,6 +1,6 @@
 ![Kaggle competition](https://user-images.githubusercontent.com/66042132/95086439-c88d8d80-0720-11eb-9cb9-539df528b5e8.png)
 
-<h1>Proyecto- Diamonds Competition /h1>
+<h1>Proyecto- Diamonds Competition </h1>
 
 El objetivo principal de este proyecto fué desarrollar multiples modelos de predicción para un problema de regresión. Utilizando el Dataframe de kaggle de Diamantes, en el cual debíamos predecir el precio diamantes, basado en sus características físicas: color, produndidad, altura, anchura, calidad de corte, entre otros. Poniendo en práctica lo enseñado en la semana.
 
