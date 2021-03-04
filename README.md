@@ -9,11 +9,11 @@ El objetivo principal de este proyecto fué desarrollar multiples modelos de pre
 
 -Archivos con modelos de regresión en formato.ipynb: Debido al gran consumo de de memoria RAM para el procesamiento de cada modelo, se decidió realizar los modelos en archivos .ipynb separados.
 
--Input: Donde se encuentran los dataset originales
+-Input: Donde se encuentran los dataset originales.
 
--Output: Se guardaron los resultados de la predicción total, con la cual se compite en kaggle
+-Output: Se guardaron los resultados de la predicción total, con la cual se compite en kaggle.
 
--Infografía: Proceso de estraxión, transformación y análisis de forma esquemática
+-Infografía: Proceso de extracción, transformación y análisis de los datos presentada de forma esquemática.
 
   
 <h2>·Modelos utilizados:</h2>
