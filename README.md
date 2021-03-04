@@ -4,6 +4,7 @@
 
 El objetivo principal de este proyecto fué desarrollar multiples modelos de predicción para un problema de regresión. Utilizando el Dataframe de kaggle de Diamantes, en el cual debíamos predecir el precio diamantes, basado en sus características físicas: color, produndidad, altura, anchura, calidad de corte, entre otros. Poniendo en práctica lo enseñado en la semana.
 
+
 <h2>·Documentos encontrados:</h2> 
 
 -Archivos con modelos de regresión en formato.ipynb: Debido al gran consumo de de memoria RAM para el procesamiento de cada modelo, se decidió realizar los modelos en archivos .ipynb separados.
@@ -11,6 +12,8 @@ El objetivo principal de este proyecto fué desarrollar multiples modelos de pre
 -Input: Donde se encuentran los dataset originales
 
 -Output: Se guardaron los resultados de la predicción total, con la cual se compite en kaggle
+
+-Infografía: Proceso de estraxión, transformación y análisis de forma esquemática
 
   
 <h2>·Modelos utilizados:</h2>
@@ -24,5 +27,6 @@ El objetivo principal de este proyecto fué desarrollar multiples modelos de pre
 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html" target="_blank">HistGradientBoostingRegressor</a>
 
 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" target="_blank">RandomForest</a>
+
 
 <h2>·Apredizaje: Aplicar ML supervisado para problemas de regresión</h2>
